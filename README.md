@@ -73,6 +73,15 @@ Using **Python, SQL, and Power BI**, the project combines data analysis, statist
 
 ---
 
+## 📁 Project Structure
+
+Ecommerce-Sales-Customer-Analysis/
+├─ Python/
+├─ SQL/
+├─ Power BI/
+├─ Screenshots/
+└─ README.md
+
 ## ⚙️ How to Run
 ```bash
 git clone https://github.com/vishaldataanalyst/Ecommerce-Sales-Customer-Analysis.git
@@ -84,13 +93,5 @@ git clone https://github.com/vishaldataanalyst/Ecommerce-Sales-Customer-Analysis
 - Run SQL queries
 
 - Open Power BI dashboard (.pbix)
----
 
-## 📁 Project Structure
 
-Ecommerce-Sales-Customer-Analysis/
-├─ Python/
-├─ SQL/
-├─ Power BI/
-├─ Screenshots/
-└─ README.md
