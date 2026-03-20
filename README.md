@@ -18,7 +18,7 @@ Using **Python, SQL, and Power BI**, the project combines data analysis, statist
 - Customer, product, pricing, and location data  
 
 **Source:**  
-https://www.kaggle.com/datasets/shrishtimanja/ecommerce-dataset-for-data-analysis
+[Dataset on Kaggle](https://www.kaggle.com/datasets/shrishtimanja/ecommerce-dataset-for-data-analysis)
 
 ---
 
@@ -38,7 +38,6 @@ https://www.kaggle.com/datasets/shrishtimanja/ecommerce-dataset-for-data-analysi
 ---
 
 ## 📊 Key Insights
-
 - **Total Sales:** ~15.8 Crores  
 - **Top Categories:** Electronics, Clothing, Beauty & Health (~65%)  
 - **Top 10% Customers:** Contribute ~25% revenue  
@@ -50,7 +49,6 @@ https://www.kaggle.com/datasets/shrishtimanja/ecommerce-dataset-for-data-analysi
 ---
 
 ## 💡 Business Recommendations
-
 - Focus on high-performing categories  
 - Retain high-value and repeat customers  
 - Use targeted discounts instead of blanket offers  
@@ -71,12 +69,11 @@ https://www.kaggle.com/datasets/shrishtimanja/ecommerce-dataset-for-data-analysi
 ![Drillthrough](Screenshots/Drillthrough_Category.png)
 
 ### Insights & Recommendations
-![Insights](Screenshots/Insights,Business Impact And Recommendations.png)
+![Insights](Screenshots/Insights_Business_impact_and_Recommendation.png)
 
 ---
 
 ## ⚙️ How to Run
-
 ```bash
 git clone https://github.com/vishaldataanalyst/Ecommerce-Sales-Customer-Analysis.git
 
@@ -87,7 +84,6 @@ git clone https://github.com/vishaldataanalyst/Ecommerce-Sales-Customer-Analysis
 - Run SQL queries
 
 - Open Power BI dashboard (.pbix)
-
 ---
 
 ## 📁 Project Structure
@@ -95,6 +91,6 @@ git clone https://github.com/vishaldataanalyst/Ecommerce-Sales-Customer-Analysis
 Ecommerce-Sales-Customer-Analysis/
 ├─ Python/
 ├─ SQL/
-├─ Power Bi/
+├─ Power BI/
 ├─ Screenshots/
 └─ README.md
